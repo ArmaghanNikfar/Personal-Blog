@@ -1,0 +1,54 @@
+{
+  "name": "َArmaghan Nikfar",
+  "version": "1.0.9",
+  "description": "FrontEnd Developer",
+  "main": "index.html",
+  "directories": {
+    "example": "root"
+  },
+  "scripts": {
+    "open-app": "gulp open-app",
+    "start": "npm run open-app",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "watch": "gulp-watch",
+    "build": "react-scripts build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/creativetimofficial/soft-ui-design-system.git"
+  },
+  "keywords": [
+    "soft ui design system",
+    "bootstrap 5",
+    "design system",
+    "creative tim",
+    "html kit",
+    "html css kit",
+    "web kit",
+    "freebie",
+    "free bootstrap kit",
+    "css3 kit",
+    "bootstrap design system",
+    "frontend",
+    "responsive bootstrap kit"
+  ],
+  "author": "Creative Tim <hello@creative-tim.com> (https://www.creative-tim.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/creativetimofficial/soft-ui-design-system/issues"
+  },
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^7.0.1",
+    "gulp-clean": "^0.4.0",
+    "gulp-install": "^1.1.0",
+    "gulp-open": "^3.0.1",
+    "gulp-sass": "^5.1.0",
+    "gulp-sourcemaps": "^2.6.5",
+    "sass": "^1.49.9"
+  },
+  "homepage": "https://Armaghannikfar.ir",
+  "dependencies": {
+    "react-scripts": "^5.0.1"
+  }
+}
